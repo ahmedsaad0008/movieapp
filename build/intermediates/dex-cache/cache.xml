@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.android\build-cache\03e734ff9bdbe6681c19f80326756e5cd0c7421e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\debug\classes_284aac166ab8766d5ab60a74822e98e055464363.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.android\build-cache\041e74bb45852a9205e6e1d013c078801b7fb461\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\debug\classes_62c22cfee76802f8ea4abc40eb18f37416dfd1a1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\AndroidStudioProjects\Project\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a278b41f8fe1ce51154f68dd3d5123ce069ae45f">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Project\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b85dd7a48661032ed5f40be9d9724ef2005936a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.android\build-cache\a8efd2ff05956b15a3a5d5d14de0c65ac3b336de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\debug\classes_a90cd2cc48615938a67d21823728ef42750bda4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_404a010131c5949eb5b276c6a3ff512c53a43a5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.18\38da306aafee11459cd935a01d2c92a98dc670a4\library-1.0.18.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38da306aafee11459cd935a01d2c92a98dc670a4">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Project\app\build\intermediates\pre-dexed\debug\library-1.0.18_101c7027f2fe75e41b87b336f9d0ba3392a6ffc3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\AndroidStudioProjects\Project\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\DELL\AndroidStudioProjects\Project\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1e64f3953e72beed36f06b3480f2fc85f480a29d\classes.dex" />
+    </item>
+
+</items>
